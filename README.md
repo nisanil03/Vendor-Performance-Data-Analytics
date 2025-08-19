@@ -158,4 +158,4 @@ python scripts/get_vendor_summary.py
 **Anil Jaiswal**  
 📧 Email: anil616jaiswal@gmail.com  
 🔗 [LinkedIn](www.linkedin.com/in/anil-jaiswal-367952255)  
-🔗 [dashboard]([dashboard](https://app.powerbi.com/groups/me/reports/84b848c6-20ad-446c-b884-0558105f9f63/1bbcb957271c3e1c65d7?experience=power-bi))
+🔗 [dashboard](https://app.powerbi.com/groups/me/reports/84b848c6-20ad-446c-b884-0558105f9f63/1bbcb957271c3e1c65d7?experience=power-bi)
