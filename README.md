@@ -15,6 +15,7 @@ Vendor Performance Analytics helps businesses track vendor performance against k
 │   └── Vendor Performance Analysis.ipynb
 ├── scripts/
 │   ├── get_vendor_summary.py
+|   ├── get_vendor_summary2.py
 │   └── ingestion_db.py
 ├── dashboard/
 │   └── vendor_performance.pbix
