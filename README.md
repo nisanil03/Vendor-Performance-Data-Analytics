@@ -4,7 +4,7 @@
 Vendor Performance Analytics helps businesses track vendor performance against key metrics like delivery, quality, pricing, and service reliability. It turns this data into clear insights, enabling companies to strengthen relationships, secure better contracts, reduce risks, and ensure timely, high-quality deliveries.
 
 ## 📂 Project flow 
-![Uploading flow_of project.png…]()
+<img src="flow_of project.png" alt="Description of image" width="1246" height="806">
 
 ## 📂 Project Structure
 ```
@@ -47,7 +47,7 @@ Vendor Performance Analytics helps businesses track vendor performance against k
 - Final insights PDF report
 
 ## 📈 Show Outputs
-  
+<img src="Desbord.png" alt="Description of image" width="3360" height="1890">  
 
   ## 📬 Contact
-For queries or collaboration, feel free to connect via [LinkedIn]().
+For queries or collaboration, feel free to connect via [LinkedIn](www.linkedin.com/in/anil-jaiswal-367952255).
