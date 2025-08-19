@@ -50,6 +50,13 @@ Effective inventory and sales management are critical in the retail sector. This
 - GitHub
 
 ---
+
+
+<h2><a class="anchor" id="project-structure"></a>Project flow </h2>
+<img src="images/flow_of project.png" alt="Description of image" width="1246" height="806">
+
+ ---
+ 
 <h2><a class="anchor" id="project-structure"></a>Project Structure</h2>
 
 ```
@@ -74,6 +81,7 @@ vendor-performance-analysis/
 
 ---
 <h2><a class="anchor" id="data-cleaning--preparation"></a>Data Cleaning & Preparation</h2>
+![Vendor Performance Dashboard](images/dashboard.png)
 
 - Removed transactions with:
   - Gross Profit ≤ 0
